@@ -1,0 +1,9 @@
+[submodule "my_pge_utilities"]
+	path = my_pge_utilities
+	url = git@github.com:EdwardStables/my_pge_utilities.git
+[submodule "olcPixelGameEngine"]
+	path = olcPixelGameEngine
+	url = git@github.com:OneLoneCoder/olcPixelGameEngine.git
+[submodule "olcSoundWaveEngine"]
+	path = olcSoundWaveEngine
+	url = git@github.com:OneLoneCoder/olcSoundWaveEngine.git
